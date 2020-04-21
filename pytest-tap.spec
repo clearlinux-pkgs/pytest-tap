@@ -44,7 +44,6 @@ Summary: python3 components for the pytest-tap package.
 Group: Default
 Requires: python3-core
 Provides: pypi(pytest_tap)
-Requires: pypi(tap.py)
 Requires: pypi(pytest)
 
 %description python3
