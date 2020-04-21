@@ -4,7 +4,7 @@
 #
 Name     : pytest-tap
 Version  : 3.1
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/c5/75/9ccc2cf1c698d32cb8b35c13219c5f0cc54bfc2edcb429ba1b3a0807c28c/pytest-tap-3.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c5/75/9ccc2cf1c698d32cb8b35c13219c5f0cc54bfc2edcb429ba1b3a0807c28c/pytest-tap-3.1.tar.gz
 Summary  : Test Anything Protocol (TAP) reporting plugin for pytest
@@ -60,7 +60,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1587495827
+export SOURCE_DATE_EPOCH=1587497261
 # -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
