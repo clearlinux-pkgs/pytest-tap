@@ -1,5 +1,5 @@
 PKG_NAME := pytest-tap
-URL = https://files.pythonhosted.org/packages/c5/75/9ccc2cf1c698d32cb8b35c13219c5f0cc54bfc2edcb429ba1b3a0807c28c/pytest-tap-3.1.tar.gz
+URL = https://files.pythonhosted.org/packages/a5/28/5ff3005aad7da4533ae21ef5894384cd5712f3f429108ac3262bc96d059a/pytest-tap-3.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
